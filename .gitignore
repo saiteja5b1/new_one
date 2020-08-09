@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+gradle.properties
+local.properties
 
 # Log file
 *.log
