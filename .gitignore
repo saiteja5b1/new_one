@@ -2,6 +2,7 @@
 *.class
 gradle.properties
 local.properties
+Example-01.iml
 
 # Log file
 *.log
